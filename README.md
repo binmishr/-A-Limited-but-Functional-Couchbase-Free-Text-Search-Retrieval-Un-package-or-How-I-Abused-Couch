@@ -1,0 +1,1 @@
+# -A-Limited-but-Functional-Couchbase-Free-Text-Search-Retrieval-Un-package-or-How-I-Abused-Couch
